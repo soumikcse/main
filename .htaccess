@@ -1,0 +1,6 @@
+
+ErrorDocument 400 http://shoumik.ml/error.php
+ErrorDocument 401 http://shoumik.ml/error.php
+ErrorDocument 403 http://shoumik.ml/error.php
+ErrorDocument 404 http://shoumik.ml/error.php
+ErrorDocument 503 http://shoumik.ml/error.php
